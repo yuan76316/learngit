@@ -1,0 +1,26 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "Project 3: Data Mashups",
+  "main": "dataMashupsServer.js",
+  "dependencies": {
+    "body-parser": "~1.15.0",
+    "express": "~4.13.4",
+    "nano": "~6.2.0",
+    "express-json": "~1.0.0",
+    "request": "~2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://rl67@bitbucket.org/cs5003group2/shared.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Group 2",
+  "license": "BSD"
+}
