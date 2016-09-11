@@ -17,3 +17,5 @@ function getCities(req, res) {
 		}
     });
 }
+
+//this is the weather's information
